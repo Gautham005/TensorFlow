@@ -1,1 +1,2 @@
-A few implementations of deep learning algorithms using Tensorflow
+# Tensorflow
+Implementations of deep learning models using Tensorflow
