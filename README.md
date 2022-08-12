@@ -1,2 +1,2 @@
 ## Tensorflow
-Implementations of deep learning solutions using Tensorflow. 
+Implementations of deep learning solutions using Tensorflow.
