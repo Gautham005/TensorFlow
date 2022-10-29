@@ -14,7 +14,7 @@ This repository contains implementations of deep learning solutions using Tensor
 
   - Train a neural network for a computer vision application
 
-  - Understand how to use convolutions to improve your neural network
+  - Understand how to use convolutions to improve the neural network
 
 
 * [Convolutional Neural Network](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/Convolutional%20Neural%20Network):
