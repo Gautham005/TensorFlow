@@ -6,7 +6,7 @@ This repository contains implementations of deep learning solutions using Tensor
 
 ### Objectives
 
-* [Introduction](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/Introduction):
+* [Introduction](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/introduction):
 
   - Learn best practices for using TensorFlow, a popular open-source machine learning framework
 
@@ -17,7 +17,7 @@ This repository contains implementations of deep learning solutions using Tensor
   - Understand how to use convolutions to improve the neural network
 
 
-* [Convolutional Neural Network](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/Convolutional%20Neural%20Network):
+* [Convolutional Neural Network](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/convolutional%20neural%20network):
 
   - Handle real-world image data
 
@@ -28,7 +28,7 @@ This repository contains implementations of deep learning solutions using Tensor
   - Learn transfer learning and how learned features can be extracted from models
 
 
-* [Natural Language Processing](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/Natural%20Language%20Processing):
+* [Natural Language Processing](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/natural%20language%20processing):
 
   - Build natural language processing systems using TensorFlow
 
@@ -39,7 +39,7 @@ This repository contains implementations of deep learning solutions using Tensor
   - Train LSTMs on existing text to create original poetry and more
 
 
-* [Sequences, Time Series and Prediction](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/Sequences%2C%20Time%20Series%20and%20Prediction): 
+* [Sequences, Time Series and Prediction](https://github.com/gauthamsathyan/deep-learning-with-tensorflow/tree/main/sequences%2C%20time%20series%20and%20prediction): 
 
   - Solve time series and forecasting problems in TensorFlow
 
