@@ -1,6 +1,6 @@
 # Deep Learning using TensorFlow
 
-This repository contains implementations of deep learning solutions using Tensorflow. Best practices to train a neural network for a deep learning applications. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, long short-term memory and GRUs. There are other topics covered such as weight intialization and batch normalization.
+This repository contains implementations of deep learning solutions using Tensorflow. Best practices to train a neural network for a deep learning applications. In most cases, the notebooks lead you through implementation of models such as convolutional networks, recurrent networks, long short-term memory and GRUs. There are other topics covered such as weight intialization and batch normalization.
 
 ## Table Of Contents
 
